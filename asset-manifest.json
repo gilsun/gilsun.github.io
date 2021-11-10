@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9199ac12.chunk.css",
+    "main.js": "/static/js/main.d0318ab8.chunk.js",
+    "main.js.map": "/static/js/main.d0318ab8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.87a6fd8f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.87a6fd8f.js.map",
+    "static/js/2.bdb17f79.chunk.js": "/static/js/2.bdb17f79.chunk.js",
+    "static/js/2.bdb17f79.chunk.js.map": "/static/js/2.bdb17f79.chunk.js.map",
+    "static/js/3.a26470d4.chunk.js": "/static/js/3.a26470d4.chunk.js",
+    "static/js/3.a26470d4.chunk.js.map": "/static/js/3.a26470d4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9199ac12.chunk.css.map": "/static/css/main.9199ac12.chunk.css.map",
+    "static/js/2.bdb17f79.chunk.js.LICENSE.txt": "/static/js/2.bdb17f79.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/daria-volkova-BMnX7L9G5xc-unsplash.56e7a4f5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87a6fd8f.js",
+    "static/js/2.bdb17f79.chunk.js",
+    "static/css/main.9199ac12.chunk.css",
+    "static/js/main.d0318ab8.chunk.js"
+  ]
+}
